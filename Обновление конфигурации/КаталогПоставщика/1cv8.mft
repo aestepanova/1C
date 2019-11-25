@@ -1,0 +1,10 @@
+﻿Vendor=Фирма "1С"
+Name=БухгалтерияПредприятия
+Version=3.0.29.8
+AppVersion=8.3
+[Config1]
+Catalog=Бухгалтерия предприятия, редакция 3.0
+Source=1Cv8.cf
+[Config2]
+Catalog=Бухгалтерия предприятия, редакция 3.0 (демо)
+Source=1Cv8.dt
